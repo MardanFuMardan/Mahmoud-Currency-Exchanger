@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+button.p-2.border.rounded-md.bg-blue-500.text-white.w-full.sm\:w-auto, input.p-2.border.rounded-md.w-full.bg-light-neutral100.dark\:bg-dark-neutral400.text-dark-neutral700.dark\:text-light-neutral100 {
+    border: 1px solid #ffffff00;
+}
